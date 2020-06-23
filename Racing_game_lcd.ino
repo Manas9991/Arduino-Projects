@@ -11,7 +11,7 @@
  * If, the coordinates of our car match with any of these cars, end game function ends it.
  * If our car goes into walls, again end game is called.
  * 
- * Coder MS99
+ * Created by Manas9991
  */
 
 #include <LiquidCrystal.h>
